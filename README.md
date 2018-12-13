@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # api_batalha_app
 
 API serving app da batalha in NodeJs
@@ -20,3 +21,6 @@ API serving app da batalha in NodeJs
   $ node index.js  
 
 ```
+=======
+# novaquotes
+>>>>>>> bbed6f39da23843e16d0ce42198f6e91324819d6
