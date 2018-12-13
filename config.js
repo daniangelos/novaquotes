@@ -15,7 +15,7 @@ module.exports = {
     version: '0.0.1',
     env: process.env.NODE_ENV ,
     port: process.env.PORT || devEnv.PORT,
-    jwt_secret: 'battleofbattles',
+    jwt_secret: 'quoteofquotes',
     base_url: process.env.BASE_URL || devEnv.BASE_URL,
     db: {
         uri: "mongodb+srv://dani:12345@cluster0-hvnbg.mongodb.net/test?retryWrites=true"

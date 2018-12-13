@@ -20,8 +20,10 @@ const quoteController    = require('../controllers/QuoteController')
 
 /*       /*
 * ROUTES *
-*/       /*
+*        */
 
+// Root
+server.get('/', quoteController.renderHome)
 
 /*
 * RESTful routes for dabatase models

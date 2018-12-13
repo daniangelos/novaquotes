@@ -38,6 +38,12 @@ const QuoteController = {
       if(err) throw err
       else res.send(quote)
     })
+  },
+
+  renderHome(req, res, next){
+    Quote.find({}).then(quotelist => {
+      res.render('index', {quotelist})
+    })
   }
 }
 
