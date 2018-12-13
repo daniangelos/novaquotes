@@ -1,0 +1,104 @@
+AuthController	/home/dani/Work/batalha/api_batalha_app/api/controllers/AuthController.js	/AuthController/;"	v	lineno:8
+BattleController	/home/dani/Work/batalha/api_batalha_app/api/controllers/BattleController.js	/BattleController/;"	v	lineno:15
+BracketController	/home/dani/Work/batalha/api_batalha_app/api/controllers/BracketController.js	/BracketController/;"	v	lineno:12
+BracketService	/home/dani/Work/batalha/api_batalha_app/api/services/BracketService.js	/BracketService/;"	v	lineno:70
+Controller	/home/dani/Work/batalha/api_batalha_app/api/controllers/Controller.js	/Controller/;"	v	lineno:8
+FINAL	/home/dani/Work/batalha/api_batalha_app/api/utils/MapRound.js	/FINAL/;"	v	lineno:5	namespace:MapRound.STAGEKEY	type:number
+FINAL	/home/dani/Work/batalha/api_batalha_app/api/utils/MapRound.js	/FINAL/;"	v	lineno:5	namespace:STAGEKEY	type:number
+FIRST_STAGE	/home/dani/Work/batalha/api_batalha_app/api/utils/MapRound.js	/FIRST_STAGE/;"	v	lineno:2	namespace:MapRound.STAGEKEY	type:number
+FIRST_STAGE	/home/dani/Work/batalha/api_batalha_app/api/utils/MapRound.js	/FIRST_STAGE/;"	v	lineno:2	namespace:STAGEKEY	type:number
+GroupController	/home/dani/Work/batalha/api_batalha_app/api/controllers/GroupController.js	/GroupController/;"	v	lineno:10
+ImageController	/home/dani/Work/batalha/api_batalha_app/api/controllers/ImageController.js	/ImageController/;"	v	lineno:7
+MapRound	/home/dani/Work/batalha/api_batalha_app/api/utils/MapRound.js	/MapRound/;"	v	lineno:15
+NewsController	/home/dani/Work/batalha/api_batalha_app/api/controllers/NewsController.js	/NewsController/;"	v	lineno:7
+QUARTERS	/home/dani/Work/batalha/api_batalha_app/api/utils/MapRound.js	/QUARTERS/;"	v	lineno:3	namespace:MapRound.STAGEKEY	type:number
+QUARTERS	/home/dani/Work/batalha/api_batalha_app/api/utils/MapRound.js	/QUARTERS/;"	v	lineno:3	namespace:STAGEKEY	type:number
+RoundController	/home/dani/Work/batalha/api_batalha_app/api/controllers/RoundController.js	/RoundController/;"	v	lineno:8
+RoundService	/home/dani/Work/batalha/api_batalha_app/api/services/RoundService.js	/RoundService/;"	v	lineno:8
+SEMIS	/home/dani/Work/batalha/api_batalha_app/api/utils/MapRound.js	/SEMIS/;"	v	lineno:4	namespace:MapRound.STAGEKEY	type:number
+SEMIS	/home/dani/Work/batalha/api_batalha_app/api/utils/MapRound.js	/SEMIS/;"	v	lineno:4	namespace:STAGEKEY	type:number
+STAGEKEY	/home/dani/Work/batalha/api_batalha_app/api/utils/MapRound.js	/STAGEKEY/;"	v	lineno:1	namespace:MapRound
+STAGEKEY	/home/dani/Work/batalha/api_batalha_app/api/utils/MapRound.js	/STAGEKEY/;"	v	lineno:1
+STAGESTR	/home/dani/Work/batalha/api_batalha_app/api/utils/MapRound.js	/STAGESTR/;"	v	lineno:8	namespace:MapRound	type:[string]
+STAGESTR	/home/dani/Work/batalha/api_batalha_app/api/utils/MapRound.js	/STAGESTR/;"	v	lineno:8	type:[string]
+Service	/home/dani/Work/batalha/api_batalha_app/api/services/Service.js	/Service/;"	v	lineno:8
+UserController	/home/dani/Work/batalha/api_batalha_app/api/controllers/UserController.js	/UserController/;"	v	lineno:10
+UserService	/home/dani/Work/batalha/api_batalha_app/api/services/UserService.js	/UserService/;"	v	lineno:7
+VideoController	/home/dani/Work/batalha/api_batalha_app/api/controllers/VideoController.js	/VideoController/;"	v	lineno:7
+auth	/home/dani/Work/batalha/api_batalha_app/api/routes/index.js	/auth/;"	f	lineno:48	type:void function(?, ?, ?)
+count	/home/dani/Work/batalha/api_batalha_app/api/services/BracketService.js	/count/;"	v	lineno:9	type:number
+create	/home/dani/Work/batalha/api_batalha_app/api/controllers/Controller.js	/create/;"	f	lineno:20	namespace:Controller	type:void function(?, ?)
+create	/home/dani/Work/batalha/api_batalha_app/api/services/Service.js	/create/;"	f	lineno:14	namespace:Service	type:void function(?)
+createBattle	/home/dani/Work/batalha/api_batalha_app/api/controllers/BattleController.js	/createBattle/;"	f	lineno:42	namespace:BattleController	type:void function(?, ?, ?)
+createGroup	/home/dani/Work/batalha/api_batalha_app/api/controllers/GroupController.js	/createGroup/;"	f	lineno:37	namespace:GroupController	type:void function(?, ?, ?)
+createImage	/home/dani/Work/batalha/api_batalha_app/api/controllers/ImageController.js	/createImage/;"	f	lineno:34	namespace:ImageController	type:void function(?, ?, ?)
+createNews	/home/dani/Work/batalha/api_batalha_app/api/controllers/NewsController.js	/createNews/;"	f	lineno:34	namespace:NewsController	type:void function(?, ?, ?)
+createUser	/home/dani/Work/batalha/api_batalha_app/api/controllers/UserController.js	/createUser/;"	f	lineno:37	namespace:UserController	type:void function(?, ?, ?)
+createVideo	/home/dani/Work/batalha/api_batalha_app/api/controllers/VideoController.js	/createVideo/;"	f	lineno:33	namespace:VideoController	type:void function(?, ?, ?)
+defineLowRounds	/home/dani/Work/batalha/api_batalha_app/api/services/RoundService.js	/defineLowRounds/;"	f	lineno:38	namespace:RoundService	type:RoundService.defineLowRounds.!ret function(?)
+delete	/home/dani/Work/batalha/api_batalha_app/api/controllers/BattleController.js	/delete/;"	f	lineno:36	namespace:BattleController	type:void function(?, ?, ?)
+delete	/home/dani/Work/batalha/api_batalha_app/api/controllers/BracketController.js	/delete/;"	f	lineno:33	namespace:BracketController	type:void function(?, ?, ?)
+delete	/home/dani/Work/batalha/api_batalha_app/api/controllers/Controller.js	/delete/;"	f	lineno:42	namespace:Controller	type:void function(?, ?, ?)
+delete	/home/dani/Work/batalha/api_batalha_app/api/controllers/GroupController.js	/delete/;"	f	lineno:31	namespace:GroupController	type:void function(?, ?, ?)
+delete	/home/dani/Work/batalha/api_batalha_app/api/controllers/ImageController.js	/delete/;"	f	lineno:28	namespace:ImageController	type:void function(?, ?, ?)
+delete	/home/dani/Work/batalha/api_batalha_app/api/controllers/NewsController.js	/delete/;"	f	lineno:28	namespace:NewsController	type:void function(?, ?, ?)
+delete	/home/dani/Work/batalha/api_batalha_app/api/controllers/RoundController.js	/delete/;"	f	lineno:29	namespace:RoundController	type:void function(?, ?, ?)
+delete	/home/dani/Work/batalha/api_batalha_app/api/controllers/UserController.js	/delete/;"	f	lineno:31	namespace:UserController	type:void function(?, ?, ?)
+delete	/home/dani/Work/batalha/api_batalha_app/api/controllers/VideoController.js	/delete/;"	f	lineno:28	namespace:VideoController	type:void function(?, ?, ?)
+deleteById	/home/dani/Work/batalha/api_batalha_app/api/controllers/Controller.js	/deleteById/;"	f	lineno:86	namespace:Controller	type:void function(?, ?, ?, ?, ?)
+deleteById	/home/dani/Work/batalha/api_batalha_app/api/services/Service.js	/deleteById/;"	f	lineno:35	namespace:Service	type:void function(?, ?)
+firstStage	/home/dani/Work/batalha/api_batalha_app/api/services/BracketService.js	/firstStage/;"	f	lineno:73	namespace:BracketService	type:void function(?)
+getAll	/home/dani/Work/batalha/api_batalha_app/api/controllers/BattleController.js	/getAll/;"	f	lineno:19	namespace:BattleController	type:void function(?, ?, ?)
+getAll	/home/dani/Work/batalha/api_batalha_app/api/controllers/BracketController.js	/getAll/;"	f	lineno:16	namespace:BracketController	type:void function(?, ?, ?)
+getAll	/home/dani/Work/batalha/api_batalha_app/api/controllers/Controller.js	/getAll/;"	f	lineno:51	namespace:Controller	type:void function(?, ?, ?, ?)
+getAll	/home/dani/Work/batalha/api_batalha_app/api/controllers/GroupController.js	/getAll/;"	f	lineno:14	namespace:GroupController	type:void function(?, ?, ?)
+getAll	/home/dani/Work/batalha/api_batalha_app/api/controllers/ImageController.js	/getAll/;"	f	lineno:11	namespace:ImageController	type:void function(?, ?, ?)
+getAll	/home/dani/Work/batalha/api_batalha_app/api/controllers/NewsController.js	/getAll/;"	f	lineno:11	namespace:NewsController	type:void function(?, ?, ?)
+getAll	/home/dani/Work/batalha/api_batalha_app/api/controllers/RoundController.js	/getAll/;"	f	lineno:12	namespace:RoundController	type:void function(?, ?, ?)
+getAll	/home/dani/Work/batalha/api_batalha_app/api/controllers/UserController.js	/getAll/;"	f	lineno:14	namespace:UserController	type:void function(?, ?, ?)
+getAll	/home/dani/Work/batalha/api_batalha_app/api/controllers/VideoController.js	/getAll/;"	f	lineno:11	namespace:VideoController	type:void function(?, ?, ?)
+getAll	/home/dani/Work/batalha/api_batalha_app/api/services/Service.js	/getAll/;"	f	lineno:18	namespace:Service	type:void function(?)
+getAllPopulating	/home/dani/Work/batalha/api_batalha_app/api/services/Service.js	/getAllPopulating/;"	f	lineno:22	namespace:Service	type:void function(?, ?, ?)
+getById	/home/dani/Work/batalha/api_batalha_app/api/controllers/BattleController.js	/getById/;"	f	lineno:23	namespace:BattleController	type:void function(?, ?, ?)
+getById	/home/dani/Work/batalha/api_batalha_app/api/controllers/BracketController.js	/getById/;"	f	lineno:20	namespace:BracketController	type:void function(?, ?, ?)
+getById	/home/dani/Work/batalha/api_batalha_app/api/controllers/Controller.js	/getById/;"	f	lineno:61	namespace:Controller	type:void function(?, ?, ?)
+getById	/home/dani/Work/batalha/api_batalha_app/api/controllers/GroupController.js	/getById/;"	f	lineno:18	namespace:GroupController	type:void function(?, ?, ?)
+getById	/home/dani/Work/batalha/api_batalha_app/api/controllers/ImageController.js	/getById/;"	f	lineno:15	namespace:ImageController	type:void function(?, ?, ?)
+getById	/home/dani/Work/batalha/api_batalha_app/api/controllers/NewsController.js	/getById/;"	f	lineno:15	namespace:NewsController	type:void function(?, ?, ?)
+getById	/home/dani/Work/batalha/api_batalha_app/api/controllers/RoundController.js	/getById/;"	f	lineno:16	namespace:RoundController	type:void function(?, ?, ?)
+getById	/home/dani/Work/batalha/api_batalha_app/api/controllers/UserController.js	/getById/;"	f	lineno:18	namespace:UserController	type:void function(?, ?, ?)
+getById	/home/dani/Work/batalha/api_batalha_app/api/controllers/VideoController.js	/getById/;"	f	lineno:15	namespace:VideoController	type:void function(?, ?, ?)
+getById	/home/dani/Work/batalha/api_batalha_app/api/services/Service.js	/getById/;"	f	lineno:10	namespace:Service	type:void function(?, ?)
+getLastBattle	/home/dani/Work/batalha/api_batalha_app/api/controllers/BattleController.js	/getLastBattle/;"	f	lineno:97	namespace:BattleController	type:void function(?, ?, ?)
+getLastestBattle	/home/dani/Work/batalha/api_batalha_app/api/controllers/BattleController.js	/getLastestBattle/;"	f	lineno:101	namespace:BattleController	type:void function(?, ?, ?)
+getNextStageUpdated	/home/dani/Work/batalha/api_batalha_app/api/services/BracketService.js	/getNextStageUpdated/;"	f	lineno:105	namespace:BracketService	type:BracketService.getNextStageUpdated.!ret function(?, ?, ?)
+getUserById	/home/dani/Work/batalha/api_batalha_app/api/services/UserService.js	/getUserById/;"	f	lineno:8	namespace:UserService	type:void function(?)
+login	/home/dani/Work/batalha/api_batalha_app/api/controllers/AuthController.js	/login/;"	f	lineno:10	namespace:AuthController	type:void function(?, ?, ?)
+newBracket	/home/dani/Work/batalha/api_batalha_app/api/services/BracketService.js	/newBracket/;"	f	lineno:50	type:void function(?, ?)
+quota	/home/dani/Work/batalha/api_batalha_app/api/services/BracketService.js	/quota/;"	f	lineno:11	type:void function(?, Array[?], Array[?])
+randomize	/home/dani/Work/batalha/api_batalha_app/api/utils/Random.js	/randomize/;"	f	lineno:1	type:void function(?, ?)
+returnResponseError	/home/dani/Work/batalha/api_batalha_app/api/controllers/Controller.js	/returnResponseError/;"	f	lineno:14	namespace:Controller	type:void function(?, ?, ?)
+returnResponseSuccess	/home/dani/Work/batalha/api_batalha_app/api/controllers/Controller.js	/returnResponseSuccess/;"	f	lineno:10	namespace:Controller	type:void function(?, Array[?])
+roundInsert	/home/dani/Work/batalha/api_batalha_app/api/services/RoundService.js	/roundInsert/;"	f	lineno:11	namespace:RoundService	type:void function(number, ?, Array[?], ?)
+rounds	/home/dani/Work/batalha/api_batalha_app/api/services/RoundService.js	/rounds/;"	f	lineno:19	namespace:RoundService	type:[?] function(?, ?)
+saveBracket	/home/dani/Work/batalha/api_batalha_app/api/controllers/BracketController.js	/saveBracket/;"	f	lineno:42	namespace:BracketController	type:void function(?, ?, ?)
+saveOrUpdateRound	/home/dani/Work/batalha/api_batalha_app/api/controllers/RoundController.js	/saveOrUpdateRound/;"	f	lineno:51	namespace:RoundController	type:void function(?)
+saveRound	/home/dani/Work/batalha/api_batalha_app/api/controllers/RoundController.js	/saveRound/;"	f	lineno:45	namespace:RoundController	type:void function(?)
+searchUserByName	/home/dani/Work/batalha/api_batalha_app/api/controllers/UserController.js	/searchUserByName/;"	f	lineno:51	namespace:UserController	type:void function(?, ?, ?)
+setRoundWinner	/home/dani/Work/batalha/api_batalha_app/api/controllers/RoundController.js	/setRoundWinner/;"	f	lineno:38	namespace:RoundController	type:void function(?, ?)
+timeToShine	/home/dani/Work/batalha/api_batalha_app/api/services/BracketService.js	/timeToShine/;"	f	lineno:25	type:[?] function(?)
+update	/home/dani/Work/batalha/api_batalha_app/api/controllers/BattleController.js	/update/;"	f	lineno:29	namespace:BattleController	type:void function(?, ?, ?)
+update	/home/dani/Work/batalha/api_batalha_app/api/controllers/BracketController.js	/update/;"	f	lineno:26	namespace:BracketController	type:void function(?, ?, ?)
+update	/home/dani/Work/batalha/api_batalha_app/api/controllers/Controller.js	/update/;"	f	lineno:29	namespace:Controller	type:void function(?, ?, ?, ?)
+update	/home/dani/Work/batalha/api_batalha_app/api/controllers/GroupController.js	/update/;"	f	lineno:24	namespace:GroupController	type:void function(?, ?, ?)
+update	/home/dani/Work/batalha/api_batalha_app/api/controllers/ImageController.js	/update/;"	f	lineno:21	namespace:ImageController	type:void function(?, ?, ?)
+update	/home/dani/Work/batalha/api_batalha_app/api/controllers/NewsController.js	/update/;"	f	lineno:21	namespace:NewsController	type:void function(?, ?, ?)
+update	/home/dani/Work/batalha/api_batalha_app/api/controllers/RoundController.js	/update/;"	f	lineno:22	namespace:RoundController	type:void function(?, ?, ?)
+update	/home/dani/Work/batalha/api_batalha_app/api/controllers/UserController.js	/update/;"	f	lineno:24	namespace:UserController	type:void function(?, ?, ?)
+update	/home/dani/Work/batalha/api_batalha_app/api/controllers/VideoController.js	/update/;"	f	lineno:21	namespace:VideoController	type:void function(?, ?, ?)
+updateBracket	/home/dani/Work/batalha/api_batalha_app/api/controllers/BracketController.js	/updateBracket/;"	f	lineno:54	namespace:BracketController	type:void function(?, ?, ?, ?)
+updateById	/home/dani/Work/batalha/api_batalha_app/api/controllers/Controller.js	/updateById/;"	f	lineno:70	namespace:Controller	type:void function(?, ?, ?, ?, ?, ?)
+updateById	/home/dani/Work/batalha/api_batalha_app/api/services/Service.js	/updateById/;"	f	lineno:31	namespace:Service	type:void function(?, ?, ?)
+updateRoundWinner	/home/dani/Work/batalha/api_batalha_app/api/controllers/BattleController.js	/updateRoundWinner/;"	f	lineno:75	namespace:BattleController	type:void function(?, ?, ?)
+updateUserById	/home/dani/Work/batalha/api_batalha_app/api/services/UserService.js	/updateUserById/;"	f	lineno:11	namespace:UserService	type:void function(?, ?)
+verify	/home/dani/Work/batalha/api_batalha_app/api/controllers/AuthController.js	/verify/;"	f	lineno:29	namespace:AuthController	type:void function(?, ?, ?)
