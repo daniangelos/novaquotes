@@ -42,7 +42,7 @@ const QuoteController = {
 
   renderHome(req, res, next){
     Quote.find({}).then(quotelist => {
-      res.render('index', {quotelist})
+      res.render('index', {quotelist.reverse()})
     })
   }
 }
