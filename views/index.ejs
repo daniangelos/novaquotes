@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="./style.css">
 </head>
 
 <body>
-    <ul>
-        <% for(var result in quotelist) { %>
-        <li><%=result%>:<%=quotelist[result]%></li>
-        <% } %>
-    </ul>
+    <div class="container">
+        <div class="row">
+            <% for(var result in quotelist) { %>
+                <div class="col-12 col-sm-4">
+                    <blockquote class="blockquote"><%=quotelist[result].quote%> </blockquote>
+                    <p>Nome</p>
+                    <div class="profilepic"> <img src="" alt=""/></div>
+                    <p><%=quotelist[result].date.toLocaleDateString("pt-BR", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })%></p>
+                </div>
+            <% } %>
+        </div>
+    </div>
 </body>
 </html>
 
